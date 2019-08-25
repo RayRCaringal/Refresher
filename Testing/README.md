@@ -1,0 +1,1 @@
+A quick refresher on Git after not having used it. Also now using Visaul Studio Code instead of Atom. 
